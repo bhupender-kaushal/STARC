@@ -12,7 +12,7 @@ Official repository for "STARC: A generalisable Self-Supervised Triple Attention
 
 <div align="center">
   <img src="fig/CBA_Block.png" width="80%" alt="STARC Framework" style="border:1px solid black;">
-  <p>Triple Attention Block (TAB)</p>
+  <p>Revolving Attention Block (RAB)</p>
 </div>
 
 
